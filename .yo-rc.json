@@ -1,0 +1,58 @@
+{
+  "generator-jhipster": {
+    "skipJhipsterDependencies": true,
+    "blueprints": [
+      {
+        "name": "generator-jhipster-agilekip",
+        "version": "0.0.12"
+      }
+    ],
+    "otherModules": [
+      {
+        "name": "generator-jhipster-agilekip",
+        "version": "0.0.12"
+      }
+    ],
+    "applicationType": "monolith",
+    "baseName": "myApp",
+    "jhipsterVersion": "7.0.1",
+    "skipClient": false,
+    "skipServer": false,
+    "skipUserManagement": false,
+    "skipCheckLengthOfIdentifier": false,
+    "skipFakeData": false,
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "testFrameworks": [],
+    "pages": [],
+    "creationTimestamp": 1689623564397,
+    "serviceDiscoveryType": false,
+    "reactive": false,
+    "authenticationType": "jwt",
+    "packageName": "com.roadmap.myapp",
+    "serverPort": "8080",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "buildTool": "maven",
+    "serverSideOptions": [],
+    "websocket": false,
+    "searchEngine": false,
+    "messageBroker": false,
+    "enableSwaggerCodegen": false,
+    "clientFramework": "vue",
+    "withAdminUi": true,
+    "clientTheme": "none",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "packageFolder": "com/roadmap/myapp",
+    "jwtSecretKey": "NjgzNTUyMzBhMWM3NzE5MDgzMTU5ZmI4NzA5YzBkODc5NjgwOGM4OTU5MGU3NjgyODc1NDgwOGMyOGMxODA5ZjA0NzNkNDAxMDlkZThiNThiMzFlNzM5OTA0MTM1MmI1ZGQ4YTlhM2JmNGM2NWE5MzcxYzNjYTIyZWE0N2NiMzU=",
+    "clientPackageManager": "npm",
+    "clientThemeVariant": "",
+    "languages": ["en"],
+    "entities": []
+  }
+}

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 17 17:03:52 BRT 2023
+http\://nexus.owse.io\:8787/repository/maven-group/.error=Could not transfer artifact org.camunda.bpm\:camunda-bom\:pom\:7.14.0 from/to central (http\://nexus.owse.io\:8787/repository/maven-group/)\: Transfer failed for http\://nexus.owse.io\:8787/repository/maven-group/org/camunda/bpm/camunda-bom/7.14.0/camunda-bom-7.14.0.pom
+https\://jitpack.io/.error=
+https\://jitpack.io/.lastUpdated=1689623886269
+463d1e8f0cecceb9476de63e298cb05bb33a5594@default-central-http\://nexus.owse.io\:8787/repository/maven-group/.lastUpdated=1689624232415
